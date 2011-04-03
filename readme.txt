@@ -1,4 +1,4 @@
-=== Upside Down WordPress ===
+=== Cornify for WordPress ===
 Contributors: BandonRandon
 Donate link: http://bandonrandon.wordpress.com
 Tags: cornify, unicorns, rainbows, april fools
